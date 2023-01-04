@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tristandubbeld.github.io/csb-q4q2td/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://tristandubbeld.github.io/csb-q4q2td/static/js/main.80144095.chunk.js",
+    "main.js.map": "https://tristandubbeld.github.io/csb-q4q2td/static/js/main.80144095.chunk.js.map",
+    "runtime-main.js": "https://tristandubbeld.github.io/csb-q4q2td/static/js/runtime-main.77fa62af.js",
+    "runtime-main.js.map": "https://tristandubbeld.github.io/csb-q4q2td/static/js/runtime-main.77fa62af.js.map",
+    "static/js/2.5dfd17b7.chunk.js": "https://tristandubbeld.github.io/csb-q4q2td/static/js/2.5dfd17b7.chunk.js",
+    "static/js/2.5dfd17b7.chunk.js.map": "https://tristandubbeld.github.io/csb-q4q2td/static/js/2.5dfd17b7.chunk.js.map",
+    "index.html": "https://tristandubbeld.github.io/csb-q4q2td/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://tristandubbeld.github.io/csb-q4q2td/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.5dfd17b7.chunk.js.LICENSE.txt": "https://tristandubbeld.github.io/csb-q4q2td/static/js/2.5dfd17b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77fa62af.js",
+    "static/js/2.5dfd17b7.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.80144095.chunk.js"
+  ]
+}
